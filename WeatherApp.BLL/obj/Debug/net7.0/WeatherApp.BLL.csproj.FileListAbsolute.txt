@@ -1,0 +1,12 @@
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/bin/Debug/net7.0/WeatherApp.BLL.deps.json
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/bin/Debug/net7.0/WeatherApp.BLL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/bin/Debug/net7.0/WeatherApp.BLL.pdb
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/WeatherApp.BLL.csproj.AssemblyReference.cache
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/WeatherApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/WeatherApp.BLL.AssemblyInfoInputs.cache
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/WeatherApp.BLL.AssemblyInfo.cs
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/WeatherApp.BLL.csproj.CoreCompileInputs.cache
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/WeatherApp.BLL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/refint/WeatherApp.BLL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/WeatherApp.BLL.pdb
+/home/murali/Documents/dotnet/Layering/WeatherApp.BLL/obj/Debug/net7.0/ref/WeatherApp.BLL.dll

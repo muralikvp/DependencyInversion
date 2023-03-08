@@ -1,0 +1,15 @@
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/bin/Debug/net7.0/WeatherApp.DAL.deps.json
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/bin/Debug/net7.0/WeatherApp.DAL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/bin/Debug/net7.0/WeatherApp.DAL.pdb
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.csproj.AssemblyReference.cache
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.AssemblyInfoInputs.cache
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.AssemblyInfo.cs
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.csproj.CoreCompileInputs.cache
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/refint/WeatherApp.DAL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.pdb
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/ref/WeatherApp.DAL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/bin/Debug/net7.0/WeatherApp.BLL.dll
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/bin/Debug/net7.0/WeatherApp.BLL.pdb
+/home/murali/Documents/dotnet/Layering/WeatherApp.DAL/obj/Debug/net7.0/WeatherApp.DAL.csproj.CopyComplete

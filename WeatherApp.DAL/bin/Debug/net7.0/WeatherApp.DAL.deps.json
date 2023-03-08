@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WeatherApp.DAL/1.0.0": {
+        "dependencies": {
+          "WeatherApp.BLL": "1.0.0"
+        },
+        "runtime": {
+          "WeatherApp.DAL.dll": {}
+        }
+      },
+      "WeatherApp.BLL/1.0.0": {
+        "runtime": {
+          "WeatherApp.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherApp.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherApp.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
